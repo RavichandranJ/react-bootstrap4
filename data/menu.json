@@ -1,0 +1,144 @@
+{
+  "tabs": [
+    {
+      "label": "WITECH 2.0",
+      "tabIndex": 0
+    },
+    {
+      "label": "LEGACY TOOLS",
+      "tabIndex": 1
+    },
+    {
+      "label": "SUPPORT INFO",
+      "tabIndex": 2
+    }
+  ],
+  "leftNavs": [
+    {
+      "label": "Announcements",
+      "order": 0,
+      "tabIndex": 0
+    },
+    {
+      "label": "microPOD Setup Utility",
+      "order": 1,
+      "tabIndex": 0
+    },
+	{
+      "label": "Knowledgebase Articles",
+      "order": 2,
+      "tabIndex": 0
+    },
+    {
+      "label": "Frequenty Asked Questions (FAQs)",
+      "order": 3,
+      "tabIndex": 0
+    },
+	{
+      "label": "Mopar Essential Diagnostic Tools Guide",
+      "order": 4,
+      "tabIndex": 0
+    },
+    {
+      "label": "Diagnostic Tool Reference Chart",
+      "order": 5,
+      "tabIndex": 0
+    },
+    {
+      "label": "Using a Mobile Hotspot",
+      "order": 6,
+      "tabIndex": 0
+    },
+    {
+      "label": "Enhanced DRB III Emulator",
+      "tabIndex": 1,
+      "order": 0
+    },
+    {
+      "label": "wiTECH Software Installer",
+      "tabIndex": 1,
+      "order": 1
+    },
+    {
+      "label": "TECHTOOLS",
+      "tabIndex": 1,
+      "order": 2
+    },
+    {
+      "label": "Contact wiTECH Helpdesk",
+      "tabIndex": 2,
+      "order": 0
+    },
+    {
+      "label": "Support Tools",
+      "tabIndex": 2,
+      "order": 1
+    }
+  ],
+  "tabIndex": 0,
+  "order": 0,
+  "selectedPage": "loading",
+  "pages": [
+    {
+      "content": "https://witech2-6f881.firebaseapp.com/wiTECH2_infoDisplay.html",
+      "order": 0,
+      "tabIndex": 0
+    },
+    {
+      "content": "https://witech2-6f881.firebaseapp.com/mpSetupUtilityInfo.html",
+      "order": 1,
+      "tabIndex": 0
+    },
+	{
+      "content": "https://witech2-6f881.firebaseapp.com/wiTECH_Knowledgebase_Articles.htm",
+      "order": 2,
+      "tabIndex": 0
+    },
+    {
+      "content": "https://witech2-6f881.firebaseapp.com/wiTECH2_FAQ.html",
+      "order": 3,
+      "tabIndex": 0
+    },
+	{
+      "content": "https://witech2-6f881.firebaseapp.com/witech2_diagnostic_tools_guide.html",
+      "order": 4,
+      "tabIndex": 0
+    },
+    {
+      "content": "https://witech2-6f881.firebaseapp.com/witech2_diagnostic_tools_ref_chart.html",
+      "order": 5,
+      "tabIndex": 0
+    },
+    {
+      "content": "https://witech2-6f881.firebaseapp.com/witech2_mobile_hotspot.html",
+      "order": 6,
+      "tabIndex": 0
+    },
+    {
+      "content": "https://witech2-6f881.firebaseapp.com/Enhanced DRB III Emulator",
+      "tabIndex": 1,
+      "order": 0
+    },
+    {
+      "content": "https://witech2-6f881.firebaseapp.com/wiTECH Software Installer",
+      "tabIndex": 1,
+      "order": 1
+    },
+    {
+      "content": "https://witech2-6f881.firebaseapp.com/TECHTOOLS",
+      "tabIndex": 1,
+      "order": 2
+    },
+    {
+      "content": "https://witech2-6f881.firebaseapp.com/Contact wiTECH Helpdesk",
+      "tabIndex": 2,
+      "order": 0
+    },
+    {
+      "content": "https://witech2-6f881.firebaseapp.com/Support Tools",
+      "tabIndex": 2,
+      "order": 1
+    }
+    
+  ]
+}
